@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+To initialise a git repository , you need to navigate to it and use the ‘git init’ command. This creates a .git metadata file, and the new repository can be examined with git status.
