@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 To initialise a git repository , you need to navigate to it and use the ‘git init’ command. This creates a .git metadata file, and the new repository can be examined with git status.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area contains files that are not yet in the repository, but are ready to be committed there. Thus, they are sort of in-between the working directory and the repository.
